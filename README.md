@@ -16,6 +16,14 @@ open http://localhost:3000
 Now edit `src/App.js`.  
 Your changes will appear without reloading the browser like in [this video](http://vimeo.com/100010922).
 
+### Resources
+
+* (https://facebook.github.io/react)
+* (https://facebook.github.io/react/docs/thinking-in-react.html)
+* (http://es6-features.org/#Constants)
+* (http://www.material-ui.com/#/components/list)
+
+
 ### Linting
 
 This boilerplate project includes React-friendly ESLint configuration.
