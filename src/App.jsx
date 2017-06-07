@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
+
 import Layout from './Layout';
+import Example from './Example';
 
 // If you use React Router, make this component
 // render <Router> with your routes. Currently,
@@ -11,7 +13,7 @@ export default class App extends Component {
   render() {
     return (
       <Layout>
-
+        <Example />
       </Layout>
     );
   }
